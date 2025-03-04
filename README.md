@@ -19,8 +19,10 @@
 * Self:
   * ‎ ‎ ‎ ‎ Fake Admin
 ### TO DO:
+* Save KeyBinds (Almost done)
+* Team check (Almost done)
 * NPC ESP
-* Object ESP
+* Object ESP (Started developing)
 * Improve Entity Loop
-* Fix sometimes Players not rendering on ESP
-* Improve Game performance
+* Fix sometimes Players not rendering on ESP (I know why that happens, i just gotta fix it)
+* Improve Game performance (entityloop-related, i will fix soon (i hope))
