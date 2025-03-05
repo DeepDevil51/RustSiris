@@ -15,10 +15,10 @@
   * ‎ ‎ ‎ ‎ Bone Selection
   * ‎ ‎ ‎ ‎ Fov
   * ‎ ‎ ‎ ‎ Show Fov
-  * ‎ ‎ ‎ ‎ Show Aimbot Target [BETA]
+  * ‎ ‎ ‎ ‎ Show Aimbot Target
 * Self:
   * ‎ ‎ ‎ ‎ Fake Admin
-  *     Trace Movement (Useless broken function, fully reverse engineered from SHITTY cheat 'NKEAC')
+  * ‎ ‎ ‎ ‎ Trace Movement (Useless broken function, fully reverse engineered from SHITTY cheat 'NKEAC')
 ### TO DO:
 * Save KeyBinds (Almost done)
 * Team check (Almost done)
