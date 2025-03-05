@@ -22,6 +22,8 @@
 ### TO DO:
 * Save KeyBinds (Almost done)
 * Team check (Almost done)
+* Target Belt (Almost done)
+* Prediction (not even started :sob:)
 * NPC ESP
 * Object ESP (Started developing)
 * Improve Entity Loop
