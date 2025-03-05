@@ -18,6 +18,7 @@
   * ‎ ‎ ‎ ‎ Show Aimbot Target [BETA]
 * Self:
   * ‎ ‎ ‎ ‎ Fake Admin
+  *     Trace Movement (Useless broken function, fully reverse engineered from SHITTY cheat 'NKEAC')
 ### TO DO:
 * Save KeyBinds (Almost done)
 * Team check (Almost done)
