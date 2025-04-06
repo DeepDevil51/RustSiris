@@ -19,13 +19,3 @@
 * Self:
   * ‎ ‎ ‎ ‎ Fake Admin
   * ‎ ‎ ‎ ‎ Trace Movement (Useless broken function, fully reverse engineered from SHITTY cheat 'NKEAC')
-### TO DO:
-* Save KeyBinds (Almost done)
-* Team check (Almost done)
-* Target Belt (Almost done)
-* Prediction (not even started :sob:)
-* NPC ESP
-* Object ESP (Started developing)
-* Improve Entity Loop
-* Fix sometimes Players not rendering on ESP (I know why that happens, i just gotta fix it)
-* Improve Game performance (entityloop-related, i will fix soon (i hope))
